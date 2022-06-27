@@ -27,3 +27,7 @@
 .header-logo img{
     padding: 0px 25px;
 }
+
+.list-steps li.icon-asset3::before{
+    display: none;
+}
