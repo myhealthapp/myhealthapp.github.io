@@ -39,3 +39,11 @@
 .list-icons img{
     max-width: 54px;
 }
+
+.banner-hero.banner-1::before{
+    display: none;
+}
+
+.banner-hero.banner-1::after{
+    display: none;
+}
