@@ -47,3 +47,25 @@
 .banner-hero.banner-1::after{
     display: none;
 }
+
+.box-signup .form-group select.input-with-icon{
+    padding-right: 40px;
+}
+
+.box-signup .form-group select.input-green-bd{
+    border: 2px solid #006D77;
+}
+
+.box-signup .form-group select.form-control {
+    background: #fff;
+    height: 56px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    line-height: 20px;
+    width: 100%;
+    border-radius: 4px;
+    color: #101828;
+}
